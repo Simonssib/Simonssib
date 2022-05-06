@@ -1,4 +1,4 @@
-## Who I am?
+## Who am I?
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=000000&background=FFB41900&vCenter=true&height=30&lines=Hi%2C+my+name+is+Simon)](https://git.io/typing-svg)
 ## Where am I from?
 The coldest town on Earth - Yakutsk, Siberia.
@@ -10,5 +10,5 @@ The coldest town on Earth - Yakutsk, Siberia.
 - How to learn
 - Russian travel
 - Mesto
-## How to connect me?
+## How to contact me?
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
