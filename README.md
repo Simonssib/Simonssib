@@ -7,8 +7,8 @@ The coldest town on Earth - Yakutsk, Siberia.
    ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)   ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
 
 ## My pet project's
-- How to learn
-- Russian travel
-- Mesto
+- [How to learn](https://github.com/Simonssib/how-to-learn)
+- [Russian travel](https://github.com/Simonssib/russian-travel)
+- [Mesto](https://github.com/Simonssib/mesto)
 ## How to contact me?
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/s1mon_alek) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekseevsimon@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-alekseev-246382236)
