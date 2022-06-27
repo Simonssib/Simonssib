@@ -15,7 +15,7 @@ The coldest town on Earth - Yakutsk, Siberia.
 ## Where am I currently?
 In the capital city Moscow
 
-## What am I do now?
+## What am I doing now?
 I learn 'front-end development' on Yandex Practicum school and ready to be trainee or junior developer in your company
 
 ## How to contact me?
