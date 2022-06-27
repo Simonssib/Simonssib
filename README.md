@@ -1,5 +1,5 @@
 ## Who am I?
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=000000&background=FFB41900&vCenter=true&height=30&lines=Hi%2C+my+name+is+Simon)](https://git.io/typing-svg)
+Hi, friend! My name is Simon
 ## Where am I from?
 The coldest town on Earth - Yakutsk, Siberia.
 ## What can I do?
@@ -11,6 +11,13 @@ The coldest town on Earth - Yakutsk, Siberia.
 - [How to learn](https://github.com/Simonssib/how-to-learn)
 - [Russian travel](https://github.com/Simonssib/russian-travel)
 - [Mesto](https://github.com/Simonssib/mesto)
+
+## Where am I currently?
+In the capital city Moscow
+
+## What am I do now?
+I learn 'front-end development' on Yandex Practicum school and ready to be trainee or junior developer in your company
+
 ## How to contact me?
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/s1mon_alek) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alekseevsimon@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-alekseev-246382236)
 
