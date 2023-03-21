@@ -10,7 +10,7 @@ The coldest town on Earth - Yakutsk, Siberia.
 ## My pet project's
 - [How to learn](https://github.com/Simonssib/how-to-learn)
 - [Russian travel](https://github.com/Simonssib/russian-travel)
-- [Mesto](https://github.com/Simonssib/mesto)
+- [Mesto](https://github.com/Simonssib/react-mesto-api-full)
 
 ## Where am I currently?
 In the capital city Moscow
